@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tai-lung007
+- 👋 Hi, I’m @
 - 👀 I’m interested in ...EMBEDDED SYSTEMS
 - 🌱 I’m currently learning ...C,LINUX
 - 💞️ I’m looking to collaborate on ...
