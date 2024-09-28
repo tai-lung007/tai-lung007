@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ BHARATH REDDY PAGADALA
 - 👀 I’m interested in ...EMBEDDED SYSTEMS
-- 🌱 I’m currently learning ...C,LINUX
+- 🌱                    ...C,LINUX system programming and device driver development.
 - 💞️ I’m looking to collaborate on ... KERNELS AND OPEN SOURSCE PROJECTS RELATED TO EMBEDDED SYSTEMS
 
 - ⚡ MY HOBBIES ARE: I love  MOVIES 
