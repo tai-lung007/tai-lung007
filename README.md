@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bharath+Reddy+Pagadala;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bharath+Reddy+Pagadala;Embedded+Systems;Software+Engineer;Firmware+Engineer;Electronics;Arm+Architecture;ARM+CORTEX+M)](https://git.io/typing-svg)
